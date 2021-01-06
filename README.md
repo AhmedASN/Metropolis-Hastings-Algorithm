@@ -4,7 +4,7 @@ In a first application, where our Markow Chain is allowed to move only from a si
 
 ![](https://github.com/AhmedASN/Metropolis-Hastings-Algorithm/blob/main/Images/the%20chain%20in%20the%20local%20version.png)
 
-While in the second application, where the chain can go from its current site to any site with a given probability distribution ( global version ), we achieve our goal with a fast convergence ( see the comparaison below to the right ).
+While in the second application, where the chain can go from its current site to any site with a given probability distribution ( global version ), we achieve our goal with a fast convergence ( see the comparaison below ).
 
 ![](https://github.com/AhmedASN/Metropolis-Hastings-Algorithm/blob/main/Images/Chain%20in%20the%20global%20version.png)
 ![](https://github.com/AhmedASN/Metropolis-Hastings-Algorithm/blob/main/Images/glob%20and%20loc.png)
